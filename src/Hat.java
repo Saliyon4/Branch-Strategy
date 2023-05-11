@@ -8,4 +8,6 @@ public class Hat {
     // Hat is cool
 
     //Hat is good
+
+    // hat is wonderful
 }
